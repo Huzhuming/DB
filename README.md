@@ -1,5 +1,3 @@
-# DB
-study
 #hello-world
 
 Hi Everyone:
